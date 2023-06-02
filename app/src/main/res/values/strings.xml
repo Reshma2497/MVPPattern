@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"> MVP Architecture</string>
+    <string name="buttonText">Click here About MVP</string>
+    <string name="heading">MVP Architecture Pattern</string>
+    <string name="subHeading">MVP highlight Points</string>
+    <string name="description">Description</string>
+</resources>
